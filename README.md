@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/codewtato/teire-descargas/releases/latest"><img alt="Download for Windows" src="https://img.shields.io/badge/Windows-Download-5FD4A0?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0Y0RUZFNiI%2BPHBhdGggZD0iTTIgNC42IDEwLjYgMy40VjExLjRIMnpNMTEuNiAzLjMgMjIgMlYxMS40SDExLjZ6TTIgMTIuNkgxMC42VjIwLjZMMiAxOS40ek0xMS42IDEyLjZIMjJWMjJMMTEuNiAyMC43eiIvPjwvc3ZnPg%3D%3D&labelColor=151D1A"></a>
   <a href="https://github.com/codewtato/teire-descargas/releases/latest/download/Teire.apk"><img alt="Download the Android APK" src="https://img.shields.io/badge/Android-Download_APK-5FD4A0?style=for-the-badge&logo=android&logoColor=F4EFE6&labelColor=151D1A"></a>
-  <a href="https://useteire.app/iphone/"><img alt="Install on iPhone" src="https://img.shields.io/badge/iPhone-Install-5FD4A0?style=for-the-badge&logo=apple&logoColor=F4EFE6&labelColor=151D1A"></a>
+  <a href="https://useteire.app/en/iphone/"><img alt="Install on iPhone" src="https://img.shields.io/badge/iPhone-Install-5FD4A0?style=for-the-badge&logo=apple&logoColor=F4EFE6&labelColor=151D1A"></a>
   <a href="https://github.com/codewtato/teire-descargas/releases/latest"><img alt="Download for Linux" src="https://img.shields.io/badge/Linux-Download-5FD4A0?style=for-the-badge&logo=linux&logoColor=F4EFE6&labelColor=151D1A"></a>
 </p>
 
@@ -30,7 +30,7 @@
 
 **Teire** is a **free app to organize your day and share it with your friends**: tasks, reminders, a calendar, live shared lists, chat, and an **island** at the top of your screen that saves anything in one gesture. For **Windows, Linux, Android and iPhone**. Made by an independent developer in Argentina.
 
-> **Heads up:** the app is in Spanish today, and English is on the way. **Teire AI** (the voice and text assistant) works in Spanish only for now. The screenshots below show the Spanish interface.
+> **Heads up:** Teire is available in English and Spanish, and picks the language of your device (you can change it in Profile → Appearance). **Teire AI** (the voice and text assistant) works in Spanish only for now.
 
 The name comes from the Japanese 手入れ (*teire*): to look after something with care, like a plant. That's the little leaf.
 
@@ -196,7 +196,7 @@ All installers are in the [latest release](https://github.com/codewtato/teire-de
 |---|---|
 | **Windows 10 / 11** | `Teire_…_x64-setup.exe` |
 | **Android** | [`Teire.apk`](https://github.com/codewtato/teire-descargas/releases/latest/download/Teire.apk) |
-| **iPhone** | No file: install it from Safari ([guide](https://useteire.app/iphone/)) |
+| **iPhone** | No file: install it from Safari ([guide](https://useteire.app/en/iphone/)) |
 | **Any Linux** | `Teire_….AppImage` |
 | **Fedora / openSUSE** | `Teire-….rpm` |
 
@@ -234,7 +234,7 @@ Do you sign in with Google, Discord or GitHub? Tap **"Sign in with an email code
 
 To save a link, copy it and tap **Paste** in Saved. If you want to save from Share without opening Teire, set up the shortcut.
 
-The island and Teire AI's voice aren't available on iPhone. All the steps, including the shortcut and what to do if something fails, are in the [iPhone guide](https://useteire.app/iphone/).
+The island and Teire AI's voice aren't available on iPhone. All the steps, including the shortcut and what to do if something fails, are in the [iPhone guide](https://useteire.app/en/iphone/).
 </details>
 
 <details>
@@ -268,7 +268,7 @@ Yes, and everything important is free. Teire Premium is optional: it adds themes
 <details>
 <summary><b>Is Teire available in English?</b></summary>
 
-The app is in Spanish today and English is coming. Teire AI (voice and text) works in Spanish only for now.
+Yes: the app comes in English and Spanish, and picks the language of your device (change it in Profile → Appearance). Teire AI (voice and text) works in Spanish only for now.
 </details>
 
 <details>
@@ -292,7 +292,7 @@ Not for now: the island is Windows-only and needs an account (you can create one
 <details>
 <summary><b>What happens with my data?</b></summary>
 
-Your notes are yours. There are no ads and we don't sell data. PIN-protected notes are encrypted on your device before they're uploaded, and what you drag from your computer into a note (except images) isn't uploaded: only the name is kept. It's all in the [privacy policy](https://useteire.app/privacidad/) (Spanish for now).
+Your notes are yours. There are no ads and we don't sell data. PIN-protected notes are encrypted on your device before they're uploaded, and what you drag from your computer into a note (except images) isn't uploaded: only the name is kept. It's all in the [privacy policy](https://useteire.app/en/privacy/).
 </details>
 
 <details>
@@ -306,5 +306,5 @@ Tell us from **Help** inside the app or in [Issues](https://github.com/codewtato
 <p align="center">
   <sub>© 2026 Teire. Argentina.<br>
   This repository is the English showcase for <a href="https://useteire.app">useteire.app</a>. The installers are published in <a href="https://github.com/codewtato/teire-descargas">teire-descargas</a>; Teire's code is private.<br>
-  <a href="https://useteire.app/privacidad/">Privacy</a> · <a href="https://useteire.app/terminos/">Terms</a> · <a href="https://useteire.app/arrepentimiento/">Right of withdrawal</a> (Spanish for now)</sub>
+  <a href="https://useteire.app/en/privacy/">Privacy</a> · <a href="https://useteire.app/en/terms/">Terms</a> · <a href="https://useteire.app/en/withdrawal/">Right of withdrawal</a></sub>
 </p>
