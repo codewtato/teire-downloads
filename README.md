@@ -28,7 +28,7 @@
 
 # Teire: your day and your people's, in one place
 
-**Teire** is a **free app to organize your day and share it with your friends**: tasks, reminders, a calendar, live shared lists, chat, and an **island** at the top of your screen that saves anything in one gesture. For **Windows, Linux, Android and iPhone**. Made by an independent developer in Argentina.
+**Teire** is a **free app to organize your day and share it with your friends**: tasks, reminders, habits, a calendar, live shared lists, chat, and an **island** at the top of your screen that saves anything in one gesture. For **Windows, Linux, Android and iPhone**. Made by an independent developer in Argentina.
 
 > **Heads up:** Teire is available in English and Spanish, and picks the language of your device (you can change it in Profile → Appearance). **Teire AI** (the voice and text assistant) works in Spanish only for now.
 
@@ -66,7 +66,7 @@ Links, photos and screenshots saved in one gesture. No ads, and it works offline
 
 ### Your day, in order
 
-**Today** puts your tasks, reminders and events in a single list, and tells you how many things you have today and how many come from your people. A calendar with **Month, Week and Agenda** views. Reminders reach you even with the window closed and repeat until you tap **Done**. With **focus mode** you pick what to work on and notifications wait.
+**Today** puts your tasks, reminders and events in a single list, and tells you how many things you have today and how many come from your people. A calendar with **Month, Week and Agenda** views. Reminders reach you even with the window closed and repeat until you tap **Done**. With **focus mode** you pick what to work on and notifications wait. Add **habits** (drink water, walk, read or your own): you check them off once a day, Teire counts your **streak** and, if you give one a time, it nudges you. And what you jot down on the go lands in an **Inbox** to sort out later: Today, This week or Someday.
 
 </td>
 </tr>
@@ -162,7 +162,10 @@ A black pill that lives at the top center of your screen (**Windows, with an acc
 - **Screenshots:** copy a screenshot and it offers to save it.
 - **It notifies you** about messages and reminders right there, and you can **reply to a message from the island** without opening the app. If something went unseen, a little green light turns on.
 - **Your music** (Spotify, YouTube Music, Apple Music, Deezer, Tidal, VLC and other music apps) stays in view, with the dancing bars; hover and you get **previous, pause and next**, the **album art** and the **lyrics** in time with the song.
-- **Hover and it opens with tabs:** what you have today (with **"Join"** for your video calls), your reminders, your friends (**message anyone from there**), your notes, your groups and today's notifications, all without opening the app.
+- **Hover and it opens with tabs, and you choose which to show:** with the settings button (⚙) you turn on and off the ones you want. A fresh install starts with **Today, Focus, Friends, Notes, Saved and Apps**; Reminders, Groups and Alerts join when you want them. In **Today** you see what you have today (with **"Join"** for your video calls) and your habits; in **Friends** you message anyone. All without opening the app.
+- **Scenes:** in Apps you build your own combos, say Minecraft, Discord and Spotify: give them a name, pick the apps and one tap opens them all. If you like, the scene also starts a focus.
+- **Habits with a time:** you check your habits off from the island and, for the ones you give a time, it nudges you at that time with **"Time for…"**, **Done** and **In 30 min**.
+- **Write it your way:** in the notes field you can type something like "che, anotame que mañana tengo un examen" ("note that I have an exam tomorrow") or "recordame el jueves a las 9 llamar al contador" ("remind me Thursday at 9 to call the accountant"), and Teire AI understands it and does it. Anything that isn't a command is saved as a note, and if Teire AI can't (no internet, say), your text is kept as a note: it isn't lost. Teire AI understands Spanish only.
 - **Focus mode:** pick what you're working on and for how long, and the island keeps the clock. If you want, notifications wait until you finish.
 - **Notes pinned to your desktop:** pull a note or list out of the island and it floats like a sticky note, so you can tick things off.
 - **Send things to your phone:** a link, a photo or something you copied reaches your phone in seconds.
