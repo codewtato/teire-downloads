@@ -26,6 +26,10 @@
   <img src="docs/img/readme/hero.webp" alt="Teire on a Windows PC: the Home screen with Today, With your people and this week, and the island at the top center of the screen" width="100%">
 </p>
 
+<p align="center">
+  <img src="docs/img/readme/isla-en-accion.gif" alt="The Teire island in action: Pip in the pill, and on hover it opens with Music, Your day, Focus, Your people and more" width="760">
+</p>
+
 # Teire: your day and your people's, in one place
 
 **Teire** is a **free app to organize your day and share it with your friends**: tasks, reminders, habits, a calendar, live shared lists, chat, and an **island** at the top of your screen that saves anything in one gesture. For **Windows, Linux, Android and iPhone**. Made by an independent developer in Argentina.
@@ -56,6 +60,14 @@ Links, photos and screenshots saved in one gesture. No ads, and it works offline
 </td>
 </tr>
 </table>
+
+## Why Teire
+
+Your day is usually spread over five apps: notes in one, tasks in another, a calendar in a third, and the chat with your people in yet another. And the nice-looking ones are almost always paid or full of ads. **Teire puts it all in one place, it's free and it has no ads.**
+
+- **On all your devices:** Windows, Linux, Android and iPhone, with the same account.
+- **With your people:** lists and chats that update live.
+- **No fuss:** the island at the top of your screen saves what you copy with one gesture.
 
 ## What it does
 
@@ -148,6 +160,12 @@ A **canvas shared by everyone**, with no owner, r/place style: every day you get
 </td>
 </tr>
 </table>
+
+## Meet Pip
+
+**Pip** is the tiny friend that lives in the island and on your Home. It doesn't talk, so it reads the same in Spanish and English: it changes color and face with whatever happens in your day. It gets amazed when someone writes to you, celebrates your friends' birthdays, gets tired if you go hours without a break and dances when music plays. It has more than fifteen faces and we won't spoil them: you'll find them yourself. Poke it, leave your mouse on it for a bit, or wait and see what it does.
+
+> Teire AI, the voice and text assistant, only works in Spanish for now.
 
 ## The island
 
