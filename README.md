@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/img/banner.svg" alt="Teire: take care of what's yours. Your day and your people's, all in one place." width="100%">
+  <img src="docs/img/banner.png" alt="Teire: take care of what's yours. Your day and your people's, all in one place." width="100%">
 </p>
 
 <p align="center">
