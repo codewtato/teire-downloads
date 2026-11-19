@@ -78,7 +78,7 @@ Your day is usually spread over five apps: notes in one, tasks in another, a cal
 
 ### Your day, in order
 
-**Today** puts your tasks, reminders and events in a single list, and tells you how many things you have today and how many come from your people. A calendar with **Month, Week and Agenda** views. Reminders reach you even with the window closed and repeat until you tap **Done**. With **focus mode** you pick what to work on and notifications wait. Add **habits** (drink water, walk, read or your own): you check them off once a day, Teire counts your **streak** and, if you give one a time, it nudges you. And what you jot down on the go lands in an **Inbox** to sort out later: Today, This week or Someday.
+**Today** puts your tasks, reminders and events in a single list, and tells you how many things you have today and how many come from your people. A calendar with **Month, Week and Agenda** views. Reminders reach you even with the window closed and repeat until you tap **Done**. With **focus mode** you pick what to work on and notifications wait. Add **habits** (drink water, walk, read or your own): you check them off once a day, Teire counts your **streak** and, if you give one a time, it nudges you. Your habits **sync between your devices**. And what you jot down on the go lands in an **Inbox** to sort out later: Today, This week or Someday.
 
 </td>
 </tr>
@@ -127,7 +127,7 @@ Notes, lists and whiteboards colored by **category**. Pinned ones go on top, and
 
 ### Just ask for it
 
-On your computer say **"Oye Teire"** (or press `Ctrl K`): *"create a grocery list with bread and milk"*, *"remind me tomorrow at 9"*, *"tell Fede I'm running late"*. Sharing a note always asks you to confirm. Teire AI works in **Spanish only** for now.
+On your computer, `Ctrl K` opens the **command bar**: search screens, notes, reminders and friends, or create a note, a habit or a focus without touching the mouse. And if you type a sentence, Teire AI understands it: *"create a grocery list with bread and milk"*, *"remind me tomorrow at 9 and send it to Fede"*, *"tell Fede I'm running late"*. You can also say **"Oye Teire"**: the voice is off by default and you turn it on in Profile → Teire AI. Sharing a note always asks you to confirm. Teire AI works in **Spanish only** for now.
 
 </td>
 <td width="56%"><img src="docs/img/readme/ia.webp" alt="Teire AI open in the desktop app" width="100%"></td>
@@ -163,31 +163,33 @@ A **canvas shared by everyone**, with no owner, r/place style: every day you get
 
 ## Meet Pip
 
-**Pip** is the tiny friend that lives in the island and on your Home. It doesn't talk, so it reads the same in Spanish and English: it changes color and face with whatever happens in your day. It gets amazed when someone writes to you, celebrates your friends' birthdays, gets tired if you go hours without a break and dances when music plays. It has more than fifteen faces and we won't spoil them: you'll find them yourself. Poke it, leave your mouse on it for a bit, or wait and see what it does.
+**Pip** is the tiny friend that lives in the island and on your Home. It doesn't talk, so it reads the same in Spanish and English: it changes color and face with whatever happens in your day. It gets amazed when someone writes to you, celebrates your friends' birthdays (you set yours in Profile), gets tired if you go hours without a break and dances when music plays. It has more than fifteen faces and we won't spoil them: you'll find them yourself. Poke it, leave your mouse on it for a bit, or wait and see what it does.
 
 > Teire AI, the voice and text assistant, only works in Spanish for now.
 
 ## The island
 
-A black pill that lives at the top center of your screen (**Windows, with an account**). You're watching a reel, reading an article or looking at a photo: drag it there and it's **saved**.
+A black pill that lives at the top center of your screen (**Windows and Linux, with an account**). You're watching a reel, reading an article or looking at a photo: drag it there and it's **saved**.
 
 <p align="center">
   <img src="docs/img/isla-demo.svg" alt="Drag a link to the Teire island at the top center of your screen and it is saved" width="640">
 </p>
 
 - **Drag and drop** a link, text or image from any program: the island opens to catch it.
-- **Copy = save:** copy an Instagram, TikTok or YouTube link and it asks whether to save it, without taking you out of what you're doing.
-- **Screenshots:** copy a screenshot and it offers to save it.
-- **It notifies you** about messages and reminders right there, and you can **reply to a message from the island** without opening the app. If something went unseen, a little green light turns on.
-- **Your music** (Spotify, YouTube Music, Apple Music, Deezer, Tidal, VLC and other music apps) stays in view, with the dancing bars; hover and you get **previous, pause and next**, the **album art** and the **lyrics** in time with the song.
-- **Hover and it opens with tabs, and you choose which to show:** with the settings button (⚙) you turn on and off the ones you want. A fresh install starts with **Today, Focus, Friends, Notes, Saved and Apps**; Reminders, Groups and Alerts join when you want them. In **Today** you see what you have today (with **"Join"** for your video calls) and your habits; in **Friends** you message anyone. All without opening the app.
+- **Copy = save:** copy an Instagram, TikTok or YouTube link and it asks whether to save it, without taking you out of what you're doing (Windows only for now).
+- **Screenshots:** copy a screenshot and it offers to save it (also Windows only for now).
+- **It notifies you** about messages and reminders right there, and you can **reply to a message from the island** without opening the app: tap a friend (or a group) and the conversation shows up. If something went unseen, a little green light turns on.
+- **Your music** (Spotify, YouTube Music, Apple Music, Deezer, Tidal, VLC and other music apps) stays in view, with the dancing bars; hover and you get **previous, pause and next**, the **album art**, the **lyrics** in time with the song, the **volume** and a **progress bar** you can jump around in. On **Linux** it works with desktop players, such as Spotify (not browsers).
+- **Hover and it opens with tabs, and you choose which to show:** with the settings button (⚙) you turn on and off the ones you want. A fresh install starts with **Today, Focus, Friends, Notes, Saved and Apps**; Reminders, Groups and Alerts join when you want them. In **Reminders** you can **create** one right there (in 10 min, in 1 hour, tonight or tomorrow). In **Today** you see what you have today (with **"Join"** for your video calls) and your habits; in **Friends** you message anyone. All without opening the app.
 - **Scenes:** in Apps you build your own combos, say Minecraft, Discord and Spotify: give them a name, pick the apps and one tap opens them all. If you like, the scene also starts a focus.
 - **Habits with a time:** you check your habits off from the island and, for the ones you give a time, it nudges you at that time with **"Time for…"**, **Done** and **In 30 min**.
 - **Write it your way:** in the notes field you can type something like "che, anotame que mañana tengo un examen" ("note that I have an exam tomorrow") or "recordame el jueves a las 9 llamar al contador" ("remind me Thursday at 9 to call the accountant"), and Teire AI understands it and does it. Anything that isn't a command is saved as a note, and if Teire AI can't (no internet, say), your text is kept as a note: it isn't lost. Teire AI understands Spanish only.
+- **Command bar:** the **Notes** field also searches screens, notes, reminders and friends, and creates a note, a habit or a focus in one tap.
+- **Pip on the pill:** closed, it shows what's most urgent (or the time, if there's nothing) and, the first time you open the island in each session, it greets you.
 - **Focus mode:** pick what you're working on and for how long, and the island keeps the clock. If you want, notifications wait until you finish.
 - **Notes pinned to your desktop:** pull a note or list out of the island and it floats like a sticky note, so you can tick things off.
 - **Send things to your phone:** a link, a photo or something you copied reaches your phone in seconds.
-- **Teire AI** listens and answers on the island (Spanish only for now).
+- **Teire AI** answers on the island and, if you turned the voice on, it listens too (Spanish only for now).
 - It hides itself when you're in a full-screen game or video.
 
 ## Teire Premium
@@ -264,6 +266,7 @@ The island and Teire AI's voice aren't available on iPhone. All the steps, inclu
 - **AppImage:** `chmod +x Teire_*.AppImage` and open it with a double click. It updates itself.
 - **Fedora / openSUSE:** `sudo dnf install ./Teire-*.rpm`.
 - On **GNOME**, to see the tray icon you need the [AppIndicator](https://extensions.gnome.org/extension/615/appindicator-support/) extension.
+- The **island** works on Linux too (with an account). Tested on Fedora with GNOME.
 </details>
 
 ## FAQ
@@ -307,7 +310,7 @@ Because the installer doesn't have a paid code signature yet, and Windows distru
 <details>
 <summary><b>Does the island work on Linux or without an account?</b></summary>
 
-Not for now: the island is Windows-only and needs an account (you can create one for free in the app). The screenshot prompt does work on Linux.
+On Linux, yes (we tested it on Fedora with GNOME). Without an account, no: you need one, and you create it for free in the app. On Linux "Copy = save" and the screenshot prompt aren't there yet, and the music comes from desktop players such as Spotify.
 </details>
 
 <details>
