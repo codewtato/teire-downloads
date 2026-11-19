@@ -172,7 +172,7 @@ A **canvas shared by everyone**, with no owner, r/place style: every day you get
 A black pill that lives at the top center of your screen (**Windows and Linux, with an account**). You're watching a reel, reading an article or looking at a photo: drag it there and it's **saved**.
 
 <p align="center">
-  <img src="docs/img/isla-demo.svg" alt="Drag a link to the Teire island at the top center of your screen and it is saved" width="640">
+  <img src="docs/img/readme/isla-arrastrar.gif" alt="Drag a link to the Teire island at the top center of your screen: it opens with Save and To the shelf, you drop it and it is saved" width="640">
 </p>
 
 - **Drag and drop** a link, text or image from any program: the island opens to catch it.
